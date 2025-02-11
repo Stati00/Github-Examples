@@ -1,3 +1,5 @@
+name: my_action_name
+
 on: [push, pull_request_target, issues] 
 
 jobs:
