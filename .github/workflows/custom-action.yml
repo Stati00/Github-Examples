@@ -1,4 +1,4 @@
-on: [push, pull_request_target, issues] 
+on: [push, pull_request_target] 
 
 jobs:
   my-job:
